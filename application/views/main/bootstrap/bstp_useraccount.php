@@ -1,0 +1,1 @@
+<link href="<?php echo base_url() ?>template/css/plugins/dualListbox/bootstrap-duallistbox.min.css" rel="stylesheet">
